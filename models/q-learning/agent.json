@@ -1,0 +1,14 @@
+{
+  "class_name": "QLearningAgent",
+  "params": {
+    "actions": [
+      "up",
+      "down",
+      "left",
+      "right"
+    ],
+    "alpha": 0.1,
+    "gamma": 0.9,
+    "epsilon": 0.2
+  }
+}
