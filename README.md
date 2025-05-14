@@ -60,8 +60,5 @@ Las métricas implementadas para comparar los algoritmos incluyen:
 
 ## 📝 Autores
 
-- [Tu Nombre]
-
-## 📄 Licencia
-
-Este proyecto está bajo la Licencia [Especificar tipo de licencia]. 
+- Javiera Cerda
+- Cristobal Ricciardi.
